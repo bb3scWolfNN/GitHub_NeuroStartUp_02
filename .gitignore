@@ -8,4 +8,3 @@ Thumbs.db
 *.DS_Store
 # Будут игнорироваться все файлы в каталоге tmp
 tmp/
-tmp.log
